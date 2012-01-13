@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/projects_php/bbs-bi-ki/inc'
+let g:netrw_dirhist_2='/projects_php/bbs-bi-ki'
+let g:netrw_dirhist_3='/projects_php/bbs-bi-ki/html'
+let g:netrw_dirhist_4='/projects_php/bbs-bi-ki'
+let g:netrw_dirhist_5='/projects_php/bbs-bi-ki/html'
+let g:netrw_dirhist_6='/projects_fluxflex'
+let g:netrw_dirhist_7='/projects_fluxflex/fuel_blog'
+let g:netrw_dirhist_8='/projects_fluxflex/fuel_blog/public'
